@@ -1,0 +1,6 @@
+Please note: this demo was built using the WebCapture resources from version 11.5.0.10.364
+
+If you're building this demo using a different version of DotImage, 
+please be sure to replace these files with the ones from
+
+C:\Program Files (x86)\Atalasoft\DotImage 11.5\bin\WebResources\WebCapture\
