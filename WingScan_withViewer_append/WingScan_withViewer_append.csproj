@@ -136,8 +136,8 @@
     <Content Include="images\1_page_bwtext_with_color_logo.tif" />
     <Content Include="WebCaptureHandler.ashx" />
     <Content Include="WebDocViewerHandler.ashx" />
-    <Content Include="WebCapture\Kofax.WebCapture.Installer.msi" />
-    <Content Include="WebCapture\Kofax.WebCapture.macOS.pkg" />
+    <Content Include="WebCapture\Tungsten.WebCapture.Installer.msi" />
+    <Content Include="WebCapture\Tungsten.WebCapture.macOS.pkg" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Default.aspx" />
