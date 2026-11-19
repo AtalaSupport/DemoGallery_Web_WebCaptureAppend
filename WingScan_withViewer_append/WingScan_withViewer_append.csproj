@@ -46,47 +46,47 @@
   <ItemGroup>
     <Reference Include="Atalasoft.dotImage">
       <Name>Atalasoft.dotImage</Name>
-      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 11.5\bin\4.6.2\x64\Atalasoft.dotImage.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\4.6.2\x64\Atalasoft.dotImage.dll</HintPath>
     </Reference>
     <Reference Include="Atalasoft.dotImage.AdvancedDocClean">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 11.5\bin\4.6.2\x64\Atalasoft.dotImage.AdvancedDocClean.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\4.6.2\x64\Atalasoft.dotImage.AdvancedDocClean.dll</HintPath>
     </Reference>
     <Reference Include="Atalasoft.dotImage.Lib">
       <Name>Atalasoft.dotImage.Lib</Name>
-      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 11.5\bin\4.6.2\x64\Atalasoft.dotImage.Lib.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\4.6.2\x64\Atalasoft.dotImage.Lib.dll</HintPath>
     </Reference>
     <Reference Include="Atalasoft.dotImage.Ocr">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 11.5\bin\4.6.2\x64\Atalasoft.dotImage.Ocr.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\4.6.2\x64\Atalasoft.dotImage.Ocr.dll</HintPath>
     </Reference>
     <Reference Include="Atalasoft.dotImage.Pdf">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 11.5\bin\4.6.2\x64\Atalasoft.dotImage.Pdf.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\4.6.2\x64\Atalasoft.dotImage.Pdf.dll</HintPath>
     </Reference>
     <Reference Include="Atalasoft.dotImage.PdfDoc.Bridge">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 11.5\bin\4.6.2\x64\Atalasoft.dotImage.PdfDoc.Bridge.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\4.6.2\x64\Atalasoft.dotImage.PdfDoc.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="Atalasoft.dotImage.PdfReader">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 11.5\bin\4.6.2\x64\Atalasoft.dotImage.PdfReader.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\4.6.2\x64\Atalasoft.dotImage.PdfReader.dll</HintPath>
     </Reference>
     <Reference Include="Atalasoft.dotImage.PdfReader.Multiprocessing">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 11.5\bin\4.6.2\x64\Atalasoft.dotImage.PdfReader.Multiprocessing.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\4.6.2\x64\Atalasoft.dotImage.PdfReader.Multiprocessing.dll</HintPath>
     </Reference>
     <Reference Include="Atalasoft.dotImage.WebControls">
       <Name>Atalasoft.dotImage.WebControls</Name>
-      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 11.5\bin\4.6.2\x64\Atalasoft.dotImage.WebControls.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\4.6.2\x64\Atalasoft.dotImage.WebControls.dll</HintPath>
     </Reference>
     <Reference Include="Atalasoft.PdfDoc">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 11.5\bin\4.6.2\x64\Atalasoft.PdfDoc.dll</HintPath>
+      <HintPath>C:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\4.6.2\x64\Atalasoft.PdfDoc.dll</HintPath>
     </Reference>
     <Reference Include="Atalasoft.Shared">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>c:\Program Files (x86)\Atalasoft\DotImage 11.5\bin\4.6.2\x64\Atalasoft.Shared.dll</HintPath>
+      <HintPath>c:\Program Files (x86)\Atalasoft\DotImage 2026.2\bin\4.6.2\x64\Atalasoft.Shared.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Data.DataSetExtensions" />
